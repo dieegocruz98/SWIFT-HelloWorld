@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Support-GitHub-HelloWorld
+//  Support-Github-HelloWorld-dieegocruz98
 //
-//  Created by Ignasi Perez-Valls on 10/7/23.
+//  Created by Cruz Fernández Diego on 10/7/23.
 //
 
 import UIKit
